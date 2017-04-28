@@ -1,8 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-#EECS 4750
-#JQ2250 Jingyu Qian
-#HW3 CUDA version
+# Image convolution filtering using CUDA
 #=====================================================================#
 #Part1. Implement a 2D convolution kernel and compare the result with
 #scipy.signal.convolve2d function.

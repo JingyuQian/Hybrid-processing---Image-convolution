@@ -1,8 +1,6 @@
 #!/usr/bin/python
 #-*- coding:utf-8 -*-
-#EECS 4750
-#jq2250 Jingyu Qian
-#HW3 OpenCL 
+# Image filtering using OpenCL
 #=====================================================================# 
 #Import necessary modules
 from PIL import Image
