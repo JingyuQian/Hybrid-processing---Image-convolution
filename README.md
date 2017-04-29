@@ -15,3 +15,5 @@ OpenCL and CUDA code for image convolution filtering, using some classic filters
 
 ## Smooth
 ![Smooth](https://github.com/OddNo7/Hybrid-processing---Image-convolution/blob/master/results/smooth_5x5_original_GPU_CPU(CUDA).jpg)
+
+More filter implementations can be found in the code.
